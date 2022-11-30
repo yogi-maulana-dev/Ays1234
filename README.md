@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I am a website and mobile programmer, who has a hobby in making application programs, especially websites. I have a portfolio on the website https://www.serbaotodidak.com/
+I am a website and mobile programmer, who has a hobby in making application programs, especially websites. I have a portfolio on the website https://sigerproject.com/yogi/
 
 <!---
 Ays1234/Ays1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
