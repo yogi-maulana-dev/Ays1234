@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yogi Maulana
-- 👀 My Linked : linkedin.com/in/yogi-maulana-0249a8131
+- 👀 My Linked : [linkedin.com/in/yogi-maulana-0249a8131](https://www.linkedin.com/in/yogi-maulana-0249a8131/)
 - 🌱 I’m currently learning https://www.darmajaya.ac.id/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: yogimaulana100@gmail.com
