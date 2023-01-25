@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ays1234
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Yogi Maulana
+- 👀 My Linked : linkedin.com/in/yogi-maulana-0249a8131
+- 🌱 I’m currently learning https://www.darmajaya.ac.id/
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email: yogimaulana100@gmail.com
 
